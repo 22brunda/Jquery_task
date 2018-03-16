@@ -1,0 +1,19 @@
+.add1 {
+  background-color: #ff0000;
+}
+
+.add2 {
+  background-color: #00ff00;
+
+}
+
+.add3 {
+  background-color: #0000ff;
+}
+
+.container {
+ display:table;
+}
+.col1, .col2, .col3 {
+ display:table-cell;
+}
